@@ -1,6 +1,6 @@
 # F.R.I.D.A.Y.
 
-A terminal-based personal AI assistant with persistent memory, inspired by Tony Stark's F.R.I.D.A.Y. It chats through Groq's OpenAI-compatible API, remembers facts you tell it across sessions, and answers in a calm, concise voice — addressing you as "Boss."
+A terminal-based personal AI assistant with persistent memory, F.R.I.D.A.Y. It chats through Groq's OpenAI-compatible API, remembers facts you tell it across sessions, and answers in a calm, concise voice — addressing you as "Boss."
 
 ```
 ========================================
